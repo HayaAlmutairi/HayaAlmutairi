@@ -1,7 +1,7 @@
-<h3 align="center">
-  <span style="color:#f75c7e;">Hi there</span>
+<p align="center" style="color:#f75c7e; font-size:26px; font-weight:600;">
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h3>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
